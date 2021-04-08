@@ -31,3 +31,6 @@ $ npm stop
 
 
 [egg]: https://eggjs.org
+
+## 技术栈
+egg + egg-mysql + moment
